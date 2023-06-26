@@ -1,0 +1,40 @@
+                STRING 
+INICIO                                            
+
+1.Ir no supermercado comprar o miojo
+2.Escolher o miojo desejado 
+3.Volte para casa 
+4.Separa a panela
+5.Ligar o fugao 
+MEIO 
+
+7.Colocar a panela no fogo 
+7.Afoge o alho na panela 
+8.Coloque a água 
+9.E espera a água esquentar 
+10.Coloque o miojo
+11.Epere 3 minutos
+FIM
+
+12.Verifique se esta do seu agrado o miojo
+13.Coloque no praco 
+14.Deguste o seu miojo
+
+
+Objetos de entrada:           
+Miojo                         
+Agua                           
+Alho 
+                         
+Objeto auxiliares:
+Panelo 
+Fogão 
+Prato 
+Grafo 
+Ingredientes Especias 
+
+Objeto de Saida:
+Macarrão Cozido
+
+Objeto de Controle:
+Receita 
