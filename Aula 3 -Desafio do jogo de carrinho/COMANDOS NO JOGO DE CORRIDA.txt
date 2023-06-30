@@ -1,0 +1,54 @@
+
+ CARRO AMARELO
+quando a bandeira verde for clicada
+ sempre 
+se tecla seta para cima 
+adicione 5 a y
+
+se tecla seta para cima 
+adicione -5 a y
+
+se tecla seta para cima 
+adicione -5 a y
+
+se tecla seta para cima 
+adicione 5 a y
+
+mude pontuação para 10 
+sempre
+se tocar em caminhão vermelho então
+adiciona -1 a pontuação
+espere 1 seg
+se pontuação = 0 pare tudo 
+se 
+sempre
+se tocar em caminhão amarelo então
+adiciona -1 a pontuação
+espere 1 seg
+se pontuação = 0 pare tudo 
+
+CAMINHÃO AMARELO
+quando a bandeira verde for clicada
+mude para a fantasia caminhao
+sempre adicione -5 a x
+se posição x < -180 entao
+mude x para 386
+mude y para numero aleatorio -52 e 129
+se tocar em carro então 
+mude para fantasia gameouver 
+senão mude 
+mude para fantasia caminhão
+pare outro scripts no ator
+
+CAMINHÃO VERMELHO
+quando a bandeira verde for clicada
+mude para a fantasia caminhao
+sempre adicione -5 a x
+se posição x < -235 entao
+mude x para 437
+mude y para numero aleatorio -15 e 124
+se tocar em carro então 
+mude para fantasia gameouver 
+senão mude 
+mude para fantasia caminhão
+pare outro scripts no ator
